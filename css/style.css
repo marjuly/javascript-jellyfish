@@ -1,0 +1,20 @@
+body{
+  background-image: image(...css/...intro/img/uw3.jpg);
+  background-repeat: no-repeat;
+  background-color: #091074;
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+}
+h1, p{
+  color: #f7f9ef;
+}
+h1{
+  font-weight: 900;
+}
+button, button:hover{
+  padding: 15px;
+  border-radius: 50%;
+  margin: 20px;
+  border-color: rgba(#ffffff, 0);
+  font-family: 'Playfair Display', serif;
+}
